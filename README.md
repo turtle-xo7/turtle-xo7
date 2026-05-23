@@ -9,16 +9,20 @@
 ---
 
 ```bash
-┌──(turtle㉿kali)-[~]
+┌──(shahariar㉿kali)-[~]
 └─$ whoami
 
-  > Name     :  turtle-xo7
-  > Role     :  CSE B.Sc Student — 3rd Year
-  > Location :  Dhaka, Bangladesh 🇧🇩
-  > Focus    :  Cybersecurity | Ethical Hacking | CTFs | Network Security
-  > Status   :  [██████████░░░░░░░░░░] Leveling up...
+  Name       : Mohammad Shahariar (turtle-xo7)
+  Degree     : B.Sc CSE · 3rd Year · University of Asia Pacific (UAP)
+  Student ID : 23101151
+  Location   : Dhaka, Bangladesh 🇧🇩
+  Email      : 23101151@uap-bd.edu
+  Focus      : Cybersecurity · Ethical Hacking · CTFs
+  Stack      : Python · C · Java · JavaScript · C++ · MySQL · Bash
+  Hobbies    : ⚽ Football · 🎮 Valorant · 🎬 Movies & TV Series · ☕ Tea
+  Status     : Learning and building — one commit at a time
 
-┌──(turtle㉿kali)-[~]
+┌──(shahariar㉿kali)-[~]
 └─$ cat current_mission.txt
 
   [*] Mastering penetration testing methodologies
@@ -26,14 +30,16 @@
   [*] Building security automation tools in Python
   [*] Learning network security & traffic analysis
 
-┌──(turtle㉿kali)-[~]
+┌──(shahariar㉿kali)-[~]
 └─$ ./run_life.sh --hobbies
 
-  ⚽  Football          — weekend warrior
-  🎮  Valorant          — peeking corners & fragging out
-  🚩  CTF Competitions  — flags don't capture themselves
+  ⚽  Football            — weekend warrior
+  🎮  Valorant            — peeking corners & fragging out
+  🎬  Movies & TV Series  — always on the watch list
+  ☕  Tea                 — fueling every late-night session
+  🚩  CTF Competitions    — flags don't capture themselves
 
-┌──(turtle㉿kali)-[~]
+┌──(shahariar㉿kali)-[~]
 └─$ _
 ```
 
@@ -63,6 +69,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Security Tools
