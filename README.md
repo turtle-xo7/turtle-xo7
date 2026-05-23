@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+turtle-xo7+%F0%9F%90%A2;Aspiring+Cybersecurity+Engineer+%F0%9F%94%90)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=BB9AF7&center=true&vCenter=true&width=700&height=40&lines=CTF+Player+%7C+Ethical+Hacking+Enthusiast+%7C+CSE+Student+%40+Dhaka%2C+BD)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shahariar+%F0%9F%90%A2%F0%9F%94%90;CSE+Student+%40+UAP+Dhaka;Aspiring+Cybersecurity+Engineer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 </div>
 
@@ -65,27 +63,18 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### Dev & Tools
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -119,16 +108,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/turtle-xo7)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/turtle-xo7)
 [![PicoCTF](https://img.shields.io/badge/picoCTF-2E86AB?style=for-the-badge&logoColor=white)](https://picoctf.org)
-
----
-
-## 🗂️ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚩 [ctf-writeups](https://github.com/turtle-xo7/ctf-writeups) | Detailed solutions and writeups for CTF challenges across platforms (PicoCTF, HTB, THM) | Markdown, Python |
-| 🔧 [python-security-tools](https://github.com/turtle-xo7/python-security-tools) | Collection of custom security scripts — port scanners, encoders, recon automation | Python |
-| 📓 [security-notes](https://github.com/turtle-xo7/security-notes) | Personal knowledge base on cybersecurity concepts, tools, attack techniques & defenses | Markdown |
 
 ---
 
