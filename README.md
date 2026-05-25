@@ -12,9 +12,8 @@
 
   Name       : Mohammad Shahariar (turtle-xo7)
   Degree     : B.Sc CSE · 3rd Year · University of Asia Pacific (UAP)
-  Student ID : 23101151
   Location   : Dhaka, Bangladesh 🇧🇩
-  Email      : 23101151@uap-bd.edu
+  Email      : shahariargates@gmail.com
   Focus      : Cybersecurity · Ethical Hacking · CTFs
   Stack      : Python · C · Java · JavaScript · C++ · MySQL · Bash
   Hobbies    : ⚽ Football · 🎮 Valorant · 🎬 Movies & TV Series · ☕ Tea
@@ -29,21 +28,43 @@
   [*] Learning network security & traffic analysis
 
 ┌──(shahariar㉿kali)-[~]
-└─$ ./run_life.sh --hobbies
-
-  ⚽  Football            — weekend warrior
-  🎮  Valorant            — peeking corners & fragging out
-  🎬  Movies & TV Series  — always on the watch list
-  ☕  Tea                 — fueling every late-night session
-  🚩  CTF Competitions    — flags don't capture themselves
-
-┌──(shahariar㉿kali)-[~]
 └─$ _
 ```
 
 ---
 
 <div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/turtle-xo7/PrepareYourself">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=turtle-xo7&repo=PrepareYourself&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+      <p><strong>Bangladesh's smart exam preparation platform for SSC & HSC students.</strong> Adaptive question banks, teacher grading, live contests, and study resources — all in one place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/turtle-xo7/UAP-BloodConnect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=turtle-xo7&repo=UAP-BloodConnect&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+      <p><strong>Full-stack platform connecting blood donors with recipients at UAP.</strong> Role-based dashboards, real-time notifications, and achievement tracking — replacing informal social media coordination.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🔐 Security Interests
 
@@ -121,7 +142,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahariargates@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turtle-xo7)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/turtle-xo7)
 
 ---
 
